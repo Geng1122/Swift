@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  NSNotification
+//  Notification
 //
-//  Created by Ada Lovelace Code on 01/01/2018.
-//  Copyright © 2018 Ada Lovelace Code. All rights reserved.
+//  Created by Crab Invader on 27/04/2019.
+//  Copyright © 2019 Crab Invader. All rights reserved.
 //
 
 import UIKit
@@ -13,8 +13,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
         return true
     }
 
