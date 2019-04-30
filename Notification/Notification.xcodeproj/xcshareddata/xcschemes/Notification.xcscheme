@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0770A7D71A2D5EAD00494953"
-               BuildableName = "AnimationWithCollisionQuartzCore.app"
-               BlueprintName = "AnimationWithCollisionQuartzCore"
-               ReferencedContainer = "container:AnimationWithCollisionQuartzCore.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0770A7EC1A2D5EAD00494953"
-               BuildableName = "AnimationWithCollisionQuartzCoreTests.xctest"
-               BlueprintName = "AnimationWithCollisionQuartzCoreTests"
-               ReferencedContainer = "container:AnimationWithCollisionQuartzCore.xcodeproj">
+               BlueprintIdentifier = "0732A6441A3630BF00F6CEC3"
+               BuildableName = "Notification.app"
+               BlueprintName = "Notification"
+               ReferencedContainer = "container:Notification.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -42,24 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0770A7EC1A2D5EAD00494953"
-               BuildableName = "AnimationWithCollisionQuartzCoreTests.xctest"
-               BlueprintName = "AnimationWithCollisionQuartzCoreTests"
-               ReferencedContainer = "container:AnimationWithCollisionQuartzCore.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0770A7D71A2D5EAD00494953"
-            BuildableName = "AnimationWithCollisionQuartzCore.app"
-            BlueprintName = "AnimationWithCollisionQuartzCore"
-            ReferencedContainer = "container:AnimationWithCollisionQuartzCore.xcodeproj">
+            BlueprintIdentifier = "0732A6441A3630BF00F6CEC3"
+            BuildableName = "Notification.app"
+            BlueprintName = "Notification"
+            ReferencedContainer = "container:Notification.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -79,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0770A7D71A2D5EAD00494953"
-            BuildableName = "AnimationWithCollisionQuartzCore.app"
-            BlueprintName = "AnimationWithCollisionQuartzCore"
-            ReferencedContainer = "container:AnimationWithCollisionQuartzCore.xcodeproj">
+            BlueprintIdentifier = "0732A6441A3630BF00F6CEC3"
+            BuildableName = "Notification.app"
+            BlueprintName = "Notification"
+            ReferencedContainer = "container:Notification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -98,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0770A7D71A2D5EAD00494953"
-            BuildableName = "AnimationWithCollisionQuartzCore.app"
-            BlueprintName = "AnimationWithCollisionQuartzCore"
-            ReferencedContainer = "container:AnimationWithCollisionQuartzCore.xcodeproj">
+            BlueprintIdentifier = "0732A6441A3630BF00F6CEC3"
+            BuildableName = "Notification.app"
+            BlueprintName = "Notification"
+            ReferencedContainer = "container:Notification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
