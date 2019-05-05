@@ -2,15 +2,15 @@
 //  ViewController.swift
 //  TableViewWithPropertyList
 //
-//  Created by Ada Lovelace Code on 01/01/2018.
-//  Copyright © 2018 Ada Lovelace Code. All rights reserved.
+//  Created by Crab Invader on 01/01/2019.
+//  Copyright © 2019 Crab Invader. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
-    var cells : NSDictionary? // Global Variable
+    var cells : NSDictionary?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -36,7 +36,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         return cell
     }
     
-    func tableView(_ tableView: UITableView, titleForHeaderInSection section:Int) -> String?  {
+    func tableView(_ tableView: UITableView, titleForHeaderInSection section:Int) -> String? {
         return "TuxMania"
     }
     
@@ -47,5 +47,4 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-    
 }
